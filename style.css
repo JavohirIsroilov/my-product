@@ -2,15 +2,16 @@
   box-sizing: border-box;
 }
 .content0{
- width: 1470px;
- background-color: #ddd;
- padding-left: 100px;
+ width: 100%;
+ margin-left: 100px;
+ margin-right: 100px;
 
 }
 .navigation{
   width: 1400px;
   font-family: 'Times New Roman', Times, serif;
   padding: 20px 70px;
+  background-color: #ddd;
 }
 .navigation ul{
   display: block;
@@ -77,6 +78,7 @@ ul li a{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding: 80px 70px;
   width: 1400px;
+  background-color: #ddd;
 }
 .third-btn{
   border: 1px solid black;
@@ -127,18 +129,26 @@ ul li a{
   text-align: center;
   /* font-family: Georgia, 'Times New Roman', Times, serif; */
   margin-left: 310px;
+  background-color: #ddd;
+}
+.content2{
+  background-color: #ddd;
 }
 .content2-item1{
   padding-right: 30px;
+  background-color: #ddd;
 }
 .content2-item2{
   padding-right: 30px;
+  background-color: #ddd;
 }
 .content2-item3{
   padding-right: 30px;
+  background-color: #ddd;
 }
 .content2-item4{
   padding-right: 30px;
+  background-color: #ddd;
 }
 .content3{
   display: grid;
@@ -148,6 +158,7 @@ ul li a{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding: 200px 70px;
   width: 1400px;  
+  background-color: #ddd;
 }
 .content3-item1{
 margin-right: 150px;
@@ -166,18 +177,18 @@ margin-top: 50px;
   } */
   .item4-icon1{
     position: absolute;
-    right: 670px;
-    top: 2080px;
+    left: 800px;
+    top: 2085px;
   }
   .item4-icon2{
     position: absolute;
-    right: 670px;
-    top: 2125px;
+    left: 800px;
+    top: 2130px;
   }
   .item4-icon3{
     position: absolute;
-    right: 670px;
-    top: 2172px;
+    left: 800px;
+    top: 2177px;
   }
   .item1-p{
     margin-left: 60px;
@@ -229,7 +240,7 @@ margin-top: 50px;
   .item2-avator{
     /* float: right; */
     position: absolute;
-    right: 240px;
+    left: 1160px;
   }
   .item3-avator{
     /* float: right; */
@@ -241,7 +252,7 @@ margin-top: 50px;
     /* float: left; */
     position: absolute;
     top: 3420px;
-    right: 530px;
+    left: 865px;
   }
   .avator1-p{
     padding: 3px 1px;
@@ -408,7 +419,7 @@ background-color: #ffffff;
   font-size: 76px;
   color:rgb(27, 82, 27);
   position: absolute;
-  right: 300px;
+  left: 1110px;
 }
 .price3-p{
   margin-top: 20px;
@@ -474,7 +485,7 @@ top: 5650px;
   }
 .href3{
     position: absolute;
-    right: 320px;
+    left: 1110px;
     top: 5650px;
 }
 .item1-photo{
